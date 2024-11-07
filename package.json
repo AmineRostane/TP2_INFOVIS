@@ -1,0 +1,14 @@
+{
+  "name": "da0b5cd7a0e74955",
+  "main": "da0b5cd7a0e74955@47.js",
+  "version": "47.0.0",
+  "homepage": "https://observablehq.com/d/da0b5cd7a0e74955",
+  "author": {
+    "name": "Mohammedelamine ROSTANE",
+    "url": "https://observablehq.com/@mohammedelamine-rostane"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
